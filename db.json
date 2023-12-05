@@ -2172,6 +2172,30 @@
         "wishList": [],
         "addToCart": [],
         "id": 14
-      }
+      },
+  {
+    "address": {
+      "geolocation": {
+        "lat": "40.12456",
+        "long": "20.5419"
+      },
+      "city": "miami",
+      "street": "avondale ave",
+      "number": 345,
+      "zipcode": "96378-0245"
+    },
+    "email": "jayachandran9629040900@gmail.com",
+    "username": "Jayachandran Ramu",
+    "password": "1",
+    "name": {
+      "firstname": "Jayachandran",
+      "lastname": "Ramu"
+    },
+    "phone": "1-678-456-1934",
+    "orders": [],
+    "wishList": [],
+    "addToCart": [],
+    "id": 15
+  }
     ]
   }
